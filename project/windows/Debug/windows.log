@@ -1,0 +1,24 @@
+﻿  RenderProject.cpp
+  Unknown compiler version - please run the configure tests and report the results
+c:\users\chris\desktop\underwater-10\brenderer\external\obj_parser\obj_parser.hpp(54): warning C4091: 'typedef ': ignored on left of '' when no variable is declared
+c:\users\chris\desktop\underwater-10\brenderer\headers\objectmanager.h(115): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\chris\desktop\underwater-10\brenderer\headers\objectmanager.h(151): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\chris\desktop\underwater-10\brenderer\headers\objectmanager.h(170): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\chris\desktop\underwater-10\brenderer\headers\objectmanager.h(189): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\chris\desktop\underwater-10\brenderer\headers\objectmanager.h(234): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\chris\desktop\underwater-10\brenderer\headers\objectmanager.h(254): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\chris\desktop\underwater-10\brenderer\headers\objectmanager.h(294): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\chris\desktop\underwater-10\brenderer\headers\objectmanager.h(321): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\chris\desktop\underwater-10\brenderer\headers\objectmanager.h(374): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\chris\desktop\underwater-10\brenderer\headers\objectmanager.h(385): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\chris\desktop\underwater-10\brenderer\headers\objectmanager.h(396): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\chris\desktop\underwater-10\project\implementation\renderproject.cpp(75): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+c:\users\chris\desktop\underwater-10\project\implementation\renderproject.cpp(78): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+c:\users\chris\desktop\underwater-10\project\implementation\renderproject.cpp(419): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\chris\desktop\underwater-10\project\implementation\renderproject.cpp(421): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\chris\desktop\underwater-10\project\implementation\renderproject.cpp(423): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\chris\desktop\underwater-10\project\implementation\renderproject.cpp(425): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\chris\desktop\underwater-10\project\implementation\renderproject.cpp(431): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\chris\desktop\underwater-10\project\implementation\renderproject.cpp(432): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\chris\desktop\underwater-10\project\implementation\renderproject.cpp(433): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  windows.vcxproj -> C:\Users\Chris\Desktop\Underwater-10\Debug\bRenderer.exe
